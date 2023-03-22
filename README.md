@@ -21,10 +21,7 @@ I also used the same dataset to explore _Spark_ functionalities from reading and
 
 Solving the question:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/>
-<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="60" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
-<img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/> <img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2.svg" width="60" height="60"/>
 
 Learning a new technology:
 
