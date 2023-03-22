@@ -32,5 +32,5 @@ Learning a new technology:
 # Conclusion
 
 By analyzing the given data, one can arrive at the following conclusions, followed by some suggestions that might increase revenue:
-- `Length of membership` is an important feature when determining `Yearly Amount Spent`. It implies that if the company had to focus on either creating new customers or retaining customers, the latter would be advisable because long-time users spend more on the service. On the same note, it might be interesting to display more advertisements for the same population strata.
+- `Length of membership` is an important feature when determining the `Yearly Amount Spent`. It implies that if the company had to focus on either creating new customers or retaining customers, the latter would be advisable because long-time users spend more on the service. On the same note, it might be interesting to display more advertisements for the same population strata.
 - The company should focus its investments on the app, seem that `Time on App` has a much stronger correlation to our target.
