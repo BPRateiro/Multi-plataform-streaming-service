@@ -13,7 +13,9 @@ Understanding that the company wants to take action on maximizing profits, some 
 
 # Contents
 
-The [dataset](userInformation.csv) contains 500 non-null observations of the 4 user features. You can find the complete exploratory data analysis (EDA) notebook [here](multi_plataform.ipynb).
+The [dataset](userInformation.csv) contains 500 non-null observations of the 4 user features. 
+
+The complete exploratory data analysis (EDA) notebook can be found [here](multi_plataform.ipynb).
 
 I also used the same dataset to explore _Spark_ functionalities from reading and modifying the dataset to proposing a linear regression model. You can find this reference notebook [here](pyspark_exploration.ipynb).
 
